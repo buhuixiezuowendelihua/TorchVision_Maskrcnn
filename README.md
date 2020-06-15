@@ -23,9 +23,13 @@
 关于如何利用迁移学习来训练自己的数据集，这里也给出两个超赞的教程：
 
 1. 教程一：[TORCHVISION 目标检测网络微调](http://studyai.com/pytorch-1.4/intermediate/torchvision_tutorial.html)
+
 2. 教程二：[手把手教你训练自己的Mask R-CNN图像实例分割模型（PyTorch官方教程）](https://blog.csdn.net/u013685264/article/details/100564660#2.%20%E6%95%B0%E6%8D%AE%E5%A2%9E%E5%BC%BA/%E8%BD%AC%E6%8D%A2)
 
-看完以上两个教程，基本上利用Pytorch中的Torchvision.model中的Faster RCNN、Mask RCNN来实现迁移学习也基本上没问题了。
+3. [**教程三：TorchVision之MaskRCNN训练（推荐）**](https://www.bilibili.com/video/BV1R7411F7QP)
+
+
+看完以上三个教程，基本上利用Pytorch中的Torchvision.model中的Faster RCNN、Mask RCNN来实现迁移学习也基本上没问题了。
 
 ## 下面介绍采坑：
 
